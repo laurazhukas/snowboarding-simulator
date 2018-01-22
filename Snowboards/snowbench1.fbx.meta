@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: 71b73cc6ecde84b4c85d190aad75286e
+timeCreated: 1511907618
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: AED_tree_stump_on_casters1
+    100002: AED_tree_stump_on_casters2
+    100004: AED_wood_table1
+    100006: Bizart_Painting_Red_Tree1
+    100008: Group1
+    100010: Group2
+    100012: Group3
+    100014: Group4
+    100016: Group5
+    100018: horse1
+    100020: Mesh1
+    100022: Mesh2
+    100024: Mesh3
+    100026: Mesh4
+    100028: Mesh5
+    100030: Mesh6
+    100032: //RootNode
+    100034: snowboard1
+    100036: SNOWBOARD_1_1
+    400000: AED_tree_stump_on_casters1
+    400002: AED_tree_stump_on_casters2
+    400004: AED_wood_table1
+    400006: Bizart_Painting_Red_Tree1
+    400008: Group1
+    400010: Group2
+    400012: Group3
+    400014: Group4
+    400016: Group5
+    400018: horse1
+    400020: Mesh1
+    400022: Mesh2
+    400024: Mesh3
+    400026: Mesh4
+    400028: Mesh5
+    400030: Mesh6
+    400032: //RootNode
+    400034: snowboard1
+    400036: SNOWBOARD_1_1
+    2300000: Mesh1
+    2300002: Mesh2
+    2300004: Mesh3
+    2300006: Mesh4
+    2300008: Mesh5
+    2300010: Mesh6
+    3300000: Mesh1
+    3300002: Mesh2
+    3300004: Mesh3
+    3300006: Mesh4
+    3300008: Mesh5
+    3300010: Mesh6
+    4300000: Mesh1
+    4300002: Mesh2
+    4300004: Mesh3
+    4300006: Mesh4
+    4300008: Mesh5
+    4300010: Mesh6
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vegetation_Bark_Ponderosa
+    second: {fileID: 2100000, guid: c0208ab9ce1b14f5b89d20bf8c904b22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Wood_Bamboo_Medium_1
+    second: {fileID: 2100000, guid: 3ce4289718d004288b9754f0c403081e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Yellow_
+    second: {fileID: 2100000, guid: 0362cd003b2784f379e9490614c73979, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ka1
+    second: {fileID: 2100000, guid: f78581f00d8e64012bf13397a60a4f7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ka2
+    second: {fileID: 2100000, guid: 4f09ae0fd8dbb466383384a0761004cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tree_stump_1
+    second: {fileID: 2100000, guid: 5aea865ec6ee44b38bd46d4d808310a3, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
